@@ -14,15 +14,3 @@ for (int i = 2; i <= num; i++)
    Console.WriteLine(sum);
 
 
-
-
-// }
-// }
-// if (count > 1)
-// {
-   
-//     a = count*count;
-   
-//     Console.WriteLine($"= {a} ");
-// } 
-    
